@@ -1,5 +1,7 @@
 
-
+/*
+ This * selects all of the elements inside my html
+*/
 * {
     box-sizing: border-box;
 }
